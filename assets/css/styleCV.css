@@ -1,0 +1,38 @@
+body.cv .avatar {
+  width: 120px;
+  float: left;
+  margin-right: 25px;
+  margin-top: 15px;
+}
+body.cv h2 {
+  margin-top: 5px;
+}
+body.cv h5 {
+  margin-bottom: 10px;
+}
+body.cv .job {
+  margin: 5px 0;
+}
+body.cv h2,
+body.cv .job,
+body.cv h5{
+  display: block;
+  vertical-align: top;
+}
+body.cv .profile-widget h3 {
+  margin-top: 15px;
+}
+body.cv .profile-widget p {
+  font-weight: 700;
+  color: #C4C4C4;
+}
+
+body.cv .profil p {
+  color: black;
+  font-weight: normal !important;
+}
+body.cv .right h3 {
+  margin-left: 12px;
+  margin-bottom: 0px;
+  margin-top: 15px;
+}
