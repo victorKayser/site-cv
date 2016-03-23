@@ -3,7 +3,7 @@
 ignore_user_abort(true);
 set_time_limit(0); // disable the time limit for this script
 
-$fullPath = "../../Victor-Kayser.pdf";
+$fullPath = "../../Victor-Kayser-CV.pdf";
 
 if ($fd = fopen ($fullPath, "r")) {
     $fsize = filesize($fullPath);
